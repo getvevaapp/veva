@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from “react”;
+import { useState, useEffect, useRef } from 'react';
 
 const apps = [
 { name: “Bloom”, icon: “🌸”, color: “#C96B8A”, desc: “Track symptoms daily and spot patterns that help you take control.”, tag: “Symptom Tracker” },
